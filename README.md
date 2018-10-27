@@ -1,2 +1,2 @@
 # CSCI_5622
-Machine Learning
+Homework of Machine Learning.
